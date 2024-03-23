@@ -1,5 +1,5 @@
 # 💫 About Me:
-   Welcome to my page<br>- I'm a mid-level Business Analyst 👨‍💼 <br>- I'm also interested in Design 👨‍🎨 Data Science 👨‍💻 and Cyber Security 🕵️‍♂️<br>- I'm currently working on a few different projects(business analysis, systems engineering, data science,...)<br>- I'm currently learning Dart, Azure, Unreal Engine <br>   (Important note: I'm sorry, I don't upload any files to my Github account often)
+   Welcome to my page<br>- I'm a mid-level Business Analyst 👨‍💼 <br>- I'm also interested in Design 👨‍🎨 Data Science 👨‍💻 and Cyber Security 🕵️‍♂️<br>- I'm currently working on a few different projects(business analysis, systems engineering, data science,...)<br>- I'm currently learning Dart, Azure, Unreal Engine <br>   (Important note: I'm sorry, I don't upload any files or projects to my Github account often)
 
 
 # 💻 Tech Stack:
