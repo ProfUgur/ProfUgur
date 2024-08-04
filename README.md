@@ -1,6 +1,6 @@
-Hi, I'm Ugur and this is my GitHub page
-I'm a mid-level Business Analyst, Project Manager and Software Developer
-(NOTE: I'm sorry, I didn't use my GitHub account often)
+Hi, I'm Ugur and this is my GitHub page \n
+I'm a mid-level Business Analyst, Project Manager and Software Developer \n
+(NOTE: I'm sorry, I didn't use my GitHub account often) \n
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
